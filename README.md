@@ -71,5 +71,5 @@ The bot will now start and connect to Telegram, MongoDB, and the TRON network.
 
 ### Contacts
 
-https://t.me/g0drlc
-https://t.me/g0drlc_tron_bot
+[@g0drlc](https://t.me/g0drlc)
+[telegram sniper bot](https://t.me/g0drlc_tron_bot)
