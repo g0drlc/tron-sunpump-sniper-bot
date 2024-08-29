@@ -32,7 +32,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/g0drlc/tron-sniper.git
+   git clone https://github.com/g0drlc/tron-sunpump-sniper-bot.git
    cd tron-sniper
    ```
 
