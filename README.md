@@ -19,4 +19,4 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 ### Contacts
 
 - [@g0drlc](https://t.me/g0drlc)
-- [telegram sniper bot](https://t.me/g0drlc_tron_bot)
+- [telegram sniper bot](https://t.me/sunpump_tron_sniper_bot)
