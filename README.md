@@ -16,59 +16,6 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 
 ![Screenshot_6](https://github.com/user-attachments/assets/7b8478b9-2cfb-417d-9cce-7d7a2f771233)
 
-
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- Node.js (v16 or higher)
-- npm or yarn
-- [MongoDB](https://www.mongodb.com/docs/manual/administration/install-community/)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/g0drlc/tron-sunpump-sniper-bot.git
-   cd tron-sniper
-   ```
-
-2. Install the dependencies:
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. Ensure your MongoDB server is running. You can start it with the following command:
-
-   ```bash
-   mongod
-   ```
-
-4. Open the `.env` file in the root directory of your project and modify it with your specific configuration.
-
-5. Start the bot:
-
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-
-The bot will now start and connect to Telegram, MongoDB, and the TRON network.
-
-### Available Commands
-
-- `/start`: Initializes the bot and provides a welcome message.
-- `/wallets`: Displays all wallets associated with your account.
-- `/positions`: Shows your current token positions.
-- `/pendingsnipes`: Lists all your pending sniping operations.
-
 ### Contacts
 
 - [@g0drlc](https://t.me/g0drlc)
