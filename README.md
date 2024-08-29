@@ -13,7 +13,8 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 - **Secure Data Storage with MongoDB**: Store user data securely using MongoDB, ensuring privacy and reliability.
 
 ## Telegram Sniper bot
-![Uploading Screenshot_5.png…]()
+![Screenshot_5](https://github.com/user-attachments/assets/e300c6bf-557d-489e-beda-a775a654b7f4)
+
 
 ## Getting Started
 
