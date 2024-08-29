@@ -12,6 +12,9 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 - **Telegram Integration**: Control and monitor the bot directly from your Telegram account with an intuitive interface.
 - **Secure Data Storage with MongoDB**: Store user data securely using MongoDB, ensuring privacy and reliability.
 
+## Telegram Sniper bot
+![Uploading Screenshot_5.png…]()
+
 ## Getting Started
 
 ### Prerequisites
