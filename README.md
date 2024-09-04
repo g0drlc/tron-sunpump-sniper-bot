@@ -1,6 +1,11 @@
 # TRON Sniper
 ![Screenshot_4](https://github.com/user-attachments/assets/253342fc-65cf-426f-bf7e-7c7c10b2ecc6)
 
+
+https://github.com/user-attachments/assets/31f693bd-0e88-4326-b6b1-25c7460fb1a6
+
+
+
 This bot is designed to help you snipe and trade newly launched or migrated tokens in sunPump on the TRON blockchain. It's highly configurable and easy to set up.
 
 ## Features
